@@ -1,0 +1,5 @@
+package com.xbrain.userdept.entities;
+
+public class Department {
+
+}

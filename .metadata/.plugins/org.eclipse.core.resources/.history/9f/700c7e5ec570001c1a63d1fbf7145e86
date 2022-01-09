@@ -1,0 +1,20 @@
+package com.xbrain.userdept.controllers;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.xbrain.userdept.entities.User;
+
+@RestController
+@RequestMapping(value = "/users")
+public class UserController {
+	
+	private UserRepository repository;
+	
+	public List<User> findAll(){
+		
+	}
+
+}

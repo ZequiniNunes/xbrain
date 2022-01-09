@@ -1,0 +1,7 @@
+package com.xbrain.userdept.controllers;
+
+@RestController
+public class UserController {
+	
+
+}

@@ -1,0 +1,5 @@
+package com.xbrain.userdept.controllers;
+
+public class UserController {
+
+}

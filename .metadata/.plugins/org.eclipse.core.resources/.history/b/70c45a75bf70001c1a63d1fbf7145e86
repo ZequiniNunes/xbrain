@@ -1,0 +1,9 @@
+package com.xbrain.userdept.entities;
+
+public class Department {
+	
+	private Long id;
+	private String name;
+	
+	
+}
